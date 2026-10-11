@@ -6,3 +6,5 @@ Character-level language models built step by step with PyTorch.
 
 - [Batch Normalization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43442.pdf): paper by Ioffe & Szegedy (2015)
 - [Universal Approximation Theorem](https://www.youtube.com/watch?v=Ijqkc7OLenI): video explanation
+
+- [Kaiming Normal Initialization](https://docs.pytorch.org/docs/2.14/nn.init.html#torch.nn.init.kaiming_normal_)
